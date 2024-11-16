@@ -1,4 +1,4 @@
-In this currect practice we need to resolve this example:
+In this current practice we need to resolve this example:
 
 You are automating the  https://www.saucedemo.com/ web application. 
 Create a new Selenium - Java - TestNG project, and configure it to launch and test the required webpage on Chrome browser. Implement on your framework the following scenarios, each one as a different test:
